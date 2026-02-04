@@ -67,3 +67,7 @@ Executar-los en aquest ordre:
 
 ## 📝 Conclusions
 El projecte permet identificar perfils de jugadors a partir de dades reals utilitzant tècniques de clustering i seguir un flux de treball típic de data analysis.
+
+
+# Alumne
+Pol Garcia
