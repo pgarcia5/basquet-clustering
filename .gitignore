@@ -1,0 +1,30 @@
+# Fitxers temporals i grans
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# Models entrenats (grans)
+*.pkl
+
+# Dades temporals
+temp/
+__pycache__/
+*.pyc
+*.pyo
+
+# Fitxers de sistema
+.DS_Store
+Thumbs.db
+
+# Fitxers de configuració locals
+.env
+config_local.py
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Fitxers de sortida
+outputs/
+results/
